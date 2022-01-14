@@ -1,0 +1,6 @@
+# How mining works: the Nonce
+
+The _Nonce_: "the number only used once" is the number that is added into a hash (encrypt) that create a totally different value. Different value of _nonce_ results in very different hash value, this is called _Avalanche effect_
+
+Miner is actually guessing the _nonce_ with the hash value that meets some specific requirement, eg: smaller than some atribute hash value.
+
